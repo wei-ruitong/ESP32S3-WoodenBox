@@ -1,0 +1,13 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "idf.adapterTargetName": "esp32s3",
+  "idf.portWin": "COM5",
+  "files.associations": {
+    "*.inc": "c",
+    "sstream": "c",
+    "regex": "c",
+    "chrono": "c",
+    "random": "c",
+    "limits": "c"
+  }
+}
